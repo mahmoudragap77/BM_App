@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BM App</string>
+    <string name="language">EN</string>
+    <string name="our_products">Our\nProducts</string>
+    <string name="exchange_rate">Exchange\nRate</string>">
+    <string name="security_tips">Security\nTips</string>
+    <string name="nearest_atm">Nearest\nBranch or\nATM</string>
+    <string name="need_help">"Need Help? "</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_username_password">Forgot username/ Password?</string>
+    <string name="login">Login</string>
+    <string name="contact_us">Contact Us</string>
+
+
+</resources>
